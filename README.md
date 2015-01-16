@@ -42,7 +42,7 @@
 * ~~Creative Mornings - Simon Sinek - Love Your Work~~
 * ~~TEDxMaastricht - Simon Sinek - 'First why and then trust'~~
 
-#TEDx
+## TEDx
 * ~~Josh Kaufman - How to learn anything in 20h~~
 
 ## Vim Meetup
