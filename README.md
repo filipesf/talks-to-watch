@@ -12,7 +12,7 @@
 
 ## CSSConf EU 2013
 * Alex Sexton - Pooping out CSS
-* Angelina Fabbro - CSS Levels Up
+* ~~Angelina Fabbro - CSS Levels Up~~
 * ~~Harry Roberts - Normalising designs for better quality CSS~~
 * ~~Mike West - XSS~~
 * ~~Nicole Sullivan - Keynote~~
