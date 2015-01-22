@@ -37,6 +37,7 @@
 * Nicolas Gallagher - Thinking beyond “Scalable CSS”
 
 ## Leadership
+* USI - Simon Sinek - Start with Why
 * ~~99u - Simon Sinek - If You Don't Understand People, You Don't Understand Business~~
 * ~~99u - Simon Sinek - Why Leaders Eat Last~~
 * ~~Creative Mornings - Simon Sinek - Love Your Work~~
