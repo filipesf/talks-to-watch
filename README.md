@@ -43,9 +43,6 @@
 * ~~TEDxMaastricht - Simon Sinek - First why and then trust~~
 * ~~TEDxPugetSound - Simon Sinek - How Great Leaders Inspire Action~~
 
-## TEDx
-* ~~Josh Kaufman - How to learn anything in 20h~~
-
 ## Vim Meetup
 * Learn how to use Vim
 * Mike Coutermarsh - Learning Vim in a Week
@@ -68,10 +65,10 @@
 * Raquel Vélez - You Can Do What With Math Now
 
 ## Others
-* ~~DAFED - Harry Roberts - Managing CSS Projects with ITCSS~~
-* ~~Fluent 2013 - Paul Irish - JavaScript Development Workflow of 2013~~
-* ~~SassConf - Hampton Catlin - The Front End Revolution~~
 * ~~SXSW 2012 - Andy Hume - CSS for Grownups~~
 * ~~Front-end Architecture - Harry Roberts - Big CSS~~
+* ~~SassConf - Hampton Catlin - The Front End Revolution~~
+* ~~TEDxCSU - Josh Kaufman - How to learn anything in 20h~~
+* ~~DAFED - Harry Roberts - Managing CSS Projects with ITCSS~~
 * ~~PDX Sass September - Raising a Banner for Front-end Architecture~~
-
+* ~~Fluent 2013 - Paul Irish - JavaScript Development Workflow of 2013~~
