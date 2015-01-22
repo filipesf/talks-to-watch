@@ -73,5 +73,5 @@
 * ~~SassConf - Hampton Catlin - The Front End Revolution~~
 * ~~SXSW 2012 - Andy Hume - CSS for Grownups~~
 * ~~Front-end Architecture - Harry Roberts - Big CSS~~
-* PDX Sass September - Raising a Banner for Front-end Architecture
+* ~~PDX Sass September - Raising a Banner for Front-end Architecture~~
 
