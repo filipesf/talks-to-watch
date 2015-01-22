@@ -1,4 +1,4 @@
-# A list with talks I'm watching this year
+# List of talks I'm watching this year
 
 2015 will be the year I'll be too focused on my job, doing stuff and studying a lot.
 
