@@ -40,7 +40,8 @@
 * ~~99u - Simon Sinek - If You Don't Understand People, You Don't Understand Business~~
 * ~~99u - Simon Sinek - Why Leaders Eat Last~~
 * ~~Creative Mornings - Simon Sinek - Love Your Work~~
-* ~~TEDxMaastricht - Simon Sinek - 'First why and then trust'~~
+* ~~TEDxMaastricht - Simon Sinek - First why and then trust~~
+* ~~TEDxPugetSound - Simon Sinek - How Great Leaders Inspire Action~~
 
 ## TEDx
 * ~~Josh Kaufman - How to learn anything in 20h~~
