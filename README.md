@@ -46,24 +46,24 @@
 
 ## Vim Meetup
 * Learn how to use Vim
-* Mike Coutermarsh - Learning Vim in a Week
+* ~~Mike Coutermarsh - Learning Vim in a Week~~
 * John Crepezzi's Vim
 * Tpope's Vim Config and Plugins
 * Your First Vim Plugin
 
 ## Web Directions Code 2013
-* Alex Danilo - Create impact with CSS3 filters
-* Garann Means - HTML, CSS and the Clientside App
+* ~~Alex Danilo - Create impact with CSS3 filters~~
+* ~~Garann Means - HTML, CSS and the Clientside App~~
 * ~~Nicole Sullivan - CSS Preprocessor Performance~~
 
 ## Web Directions Code 2014
-* Alex Feyerke - Offline First
-* Ben Schwarz - CSS Variables
-* Dmitry Baranovskiy - You Don't Know SVG
-* Fiona Chan - The Declarative Power of CSS Selectors
-* Jared Wyles - On Readable Code
-* Paul Theriault - Taking front-end security seriously
-* Raquel Vélez - You Can Do What With Math Now
+* ~~Alex Feyerke - Offline First~~
+* ~~Ben Schwarz - CSS Variables~~
+* ~~Dmitry Baranovskiy - You Don't Know SVG~~
+* ~~Fiona Chan - The Declarative Power of CSS Selectors~~
+* ~~Jared Wyles - On Readable Code~~
+* ~~Paul Theriault - Taking front-end security seriously~~
+* ~~Raquel Vélez - You Can Do What With Math Now~~
 
 ## Others
 * ~~SXSW 2012 - Andy Hume - CSS for Grownups~~
