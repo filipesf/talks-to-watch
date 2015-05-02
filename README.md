@@ -3,15 +3,15 @@
 2015 will be the year I'll be too focused on my job, doing stuff and studying a lot.
 
 ## BrazilJS 2014
-* Chris Miller - Frontend at Scale - The Tumblr Story
+* ~~Chris Miller - Frontend at Scale - The Tumblr Story~~
 * Jacob Page - From commit to prod in 5 minutes
 * Jonathan Sampson - Mastering IE’s updated F12 tools
 * Mauricio Wolff - Limpando CSS gigantes com JS
-* Miller Medeiros - AST, CST e Ferramentas Incríveis
+* Miller Medeiros - AST, CST e Ferramentas Incríveis
 * Ricardo Tomasi - Frontend was always my favorite color
 
 ## CSSConf EU 2013
-* Alex Sexton - Pooping out CSS
+* ~~Alex Sexton - Pooping out CSS~~
 * ~~Angelina Fabbro - CSS Levels Up~~
 * ~~Harry Roberts - Normalising designs for better quality CSS~~
 * ~~Mike West - XSS~~
@@ -26,7 +26,7 @@
 * ~~Karolina Szczur - Validate Me~~
 * ~~Mathias Bynens - 3.14 Things I Didn't Know About CSS~~
 * ~~Nicolas Gallagher - Adaptation and Components~~
-* Patrick Hamann - CSS and the Critical Path
+* ~~Patrick Hamann - CSS and the Critical Path~~
 * ~~Rachel Andrew - CSS Grid Layout~~
 * ~~Sara Soueidan - Styling and Animating Scalable Vector Graphics with CSS~~
 
@@ -34,7 +34,7 @@
 * ~~Gregor Adams - Functionality in CSS~~
 * ~~Kaelig Deloumeau-Prigent - Bridging the gap between developers and designers~~
 * Maxime Thirouin - Back to the CSS
-* Nicolas Gallagher - Thinking beyond “Scalable CSS”
+* ~~Nicolas Gallagher - Thinking beyond “Scalable CSS”~~
 
 ## Leadership
 * ~~USI - Simon Sinek - Start with Why~~
